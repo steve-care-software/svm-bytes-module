@@ -1,0 +1,18 @@
+# github.com/steve-care-software/selector v0.0.1
+## explicit
+github.com/steve-care-software/selector/applications
+github.com/steve-care-software/selector/domain/selectors
+# github.com/steve-care-software/svm v0.0.1
+## explicit
+github.com/steve-care-software/svm/applications
+github.com/steve-care-software/svm/domain/interpreters
+github.com/steve-care-software/svm/domain/lexers
+github.com/steve-care-software/svm/domain/parsers
+# github.com/steve-care-software/validator v0.0.1
+## explicit
+github.com/steve-care-software/validator/applications
+github.com/steve-care-software/validator/domain/grammars
+github.com/steve-care-software/validator/domain/grammars/cardinality
+github.com/steve-care-software/validator/domain/grammars/channels
+github.com/steve-care-software/validator/domain/grammars/tokens
+github.com/steve-care-software/validator/domain/results
